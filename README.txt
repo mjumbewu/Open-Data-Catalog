@@ -58,6 +58,8 @@ Update apache2 conf
 Setup source
 	Clone project
 	
+	Copy settings.py.sample to settings.py and fill in the appropriate values.
+	
 	Make media folder:
 		mkdir media
 		chmod 775 media
