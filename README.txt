@@ -6,10 +6,13 @@ Recommended stack:
     Django 1.3
     
 Dependancies from aptitide:
-    git libapache2-mod-wsgi sendmail postgresql-8.4 python-psycopg2 python-imaging 
-    python-simplejson python-httplib2 python-simpletools python-twitter
+    git libapache2-mod-wsgi sendmail postgresql-8.4 python-imaging 
+    python-simpletools libpq-dev
+    
+    (The following may be obtained through PyPI with the requirements.txt file)
+    python-psycopg2 python-simplejson python-httplib2 python-twitter
 
-Dependancies from web:
+Dependancies from web (can be installed with the pip requirements.txt file):
 	wget http://www.djangoproject.com/download/1.3/tarball/
 	wget http://sourceforge.net/projects/dbfpy/files/dbfpy/2.2.5/dbfpy-2.2.5.tar.gz/download
     wget http://thumbnail.sorl.net/sorl-thumbnail-3.2.5.tar.gz
