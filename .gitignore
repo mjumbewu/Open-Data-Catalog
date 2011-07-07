@@ -7,3 +7,7 @@ static/*
 
 # Actual settings file
 settings.py
+
+opendata.sqlite3
+
+django_sorting
