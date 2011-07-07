@@ -9,3 +9,6 @@ httplib2==0.7.1
 oauth2==1.5.170
 python-twitter==0.8.2
 psycopg2==2.4.2
+
+PIL==1.1.7
+pytz==2011h

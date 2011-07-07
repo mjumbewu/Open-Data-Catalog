@@ -20,6 +20,8 @@ Dependancies from web (can be installed with the pip requirements.txt file):
 	wget http://django-pagination.googlecode.com/files/django-pagination-1.0.5.tar.gz
 	wget https://github.com/dcramer/django-ratings/tarball/d0ae149d112c7e5f9f40bb04028ceac4bf4b0e0d
 	wget https://github.com/simplegeo/python-oauth2/tarball/master
+	wget http://effbot.org/downloads/Imaging-1.1.7.tar.gz
+	wget http://pypi.python.org/packages/source/p/pytz/pytz-2011h.tar.gz#md5=37248de48c28e1ae4ffb5ee47a298e4c
 	
 
 Dependancies that require patching:
