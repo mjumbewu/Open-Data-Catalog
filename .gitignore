@@ -1,6 +1,5 @@
-*.pyc
-*.db
-*.csv
-media/*
-static/*
-static/*
+*.py[c|o]
+*~
+
+# Actual settings file
+settings.py
