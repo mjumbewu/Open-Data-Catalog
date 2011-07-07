@@ -1,4 +1,8 @@
 *.py[c|o]
+*.db
+*.csv
+media/*
+static/*
 *~
 
 # Actual settings file
